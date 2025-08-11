@@ -34,7 +34,7 @@
 <hr>
 
 <p align="left">
-Je suis Mohammed, développeur full-stack passionné, originaire du Maroc 🇲🇦.<br><br>
+Je suis Mohammed, développeur full-stack passionné, originaire du Maroc <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Maroc" height="18" style="vertical-align:middle;" />.<br><br>
 - 🔭 Je travaille actuellement en tant que développeur full-stack.<br>
 - 📚 Je poursuis actuellement un master en intelligence artificielle pour renforcer mes compétences.<br>
 - ⚡ Pendant mon temps libre, j'aime expérimenter de nouvelles technologies et approfondir mes connaissances.
