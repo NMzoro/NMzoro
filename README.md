@@ -43,7 +43,7 @@ Je suis Mohammed, développeur full-stack passionné, originaire du Maroc 🇲�
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">💻 Language</h3>
 
 ###
 
