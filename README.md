@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/med.bouhaddou" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://medbouhaddou.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-  </a>
 </div>
 
 
